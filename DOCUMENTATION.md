@@ -4,10 +4,15 @@ Welcome to the API documentation for TranSaver API
 
 ## Base URL
 
-The base URL for all endpoints is:
+The base URL for all endpoints if you are running on your local machine:
 
 ```
 http://localhost:3000
+```
+The base URL for all endpoints if you are using deployed serive:
+
+```
+https://transaver-api.onrender.com
 ```
 
 ## Authentication
